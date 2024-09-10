@@ -1,6 +1,6 @@
 **Pesquisador de Países**
 
-Descubra tudo sobre os países do mundo com apenas um clique!
+Descubra tudo sobre os países do mundo com apenas um clique!  
 Projeto desenvolvido durante a Imersão Dev Alura + Google Gemini.
 
 **Como usar:**
