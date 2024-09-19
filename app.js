@@ -4,7 +4,7 @@ function pesquisar() {
     let campoPesqusisa = document.getElementById("campo-pesquisa").value;
 
     if (campoPesqusisa == "") {
-        section.innerHTML = "<p>Informe o nome de algum país no campo de pesquisa.</p>";
+        section.innerHTML = "<p>Informe o nome de algum país no campo de pesquisa :)</p>";
         return;
     }
 
@@ -38,7 +38,7 @@ function pesquisar() {
     }
 
     if (resultados == "") {
-        resultados = "<p>Não foram encontradas informações para o país pesquisado.</p>";
+        resultados = "<p>Não foram encontradas informações sobre o país pesquisado :(</p>";
     }
 
     section.innerHTML = resultados;
